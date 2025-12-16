@@ -116,6 +116,7 @@ Launches the interactive multi-page dashboard:
 
 ```bash
 streamlit run _streamlit_app.py
+```
 
 ## Documentation
 - [Project Report (PDF)](docs/MasterpathAI_Project_Report.pdf)
